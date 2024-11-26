@@ -1,0 +1,13 @@
+.wordDisplay {
+    width: 48%;                       /*宽度*/
+    height: 800px;                    /*高度*/
+}
+
+.textDisplay {
+    height: 100px;                    /*高度*/
+    margin: 10px;                     /*外边距*/
+    padding: 10px;                    /*内边距*/
+    font-size: 30px;                  /*字体大小*/
+    background-color: #f0f0f0;      /*背景颜色*/
+    border: 1px solid #ccc;         /*边框*/
+  }
